@@ -1,4 +1,4 @@
 # srgttyt.github.io
 Website for SRGTT YT
 
-Visit https://srgtt.ml
+# Visit https://srgtt.ml
